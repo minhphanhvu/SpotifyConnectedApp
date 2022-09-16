@@ -1,0 +1,20 @@
+{
+  "name": "spotifyconnectedapp",
+  "version": "1.0.0",
+  "description": "SpotifyConnectedApp to study React and formik library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhphanhvu/SpotifyConnectedApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhphanhvu/SpotifyConnectedApp/issues"
+  },
+  "homepage": "https://github.com/minhphanhvu/SpotifyConnectedApp#readme"
+}

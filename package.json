@@ -4,7 +4,8 @@
   "description": "SpotifyConnectedApp to study React and formik library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,14 @@
   "bugs": {
     "url": "https://github.com/minhphanhvu/SpotifyConnectedApp/issues"
   },
-  "homepage": "https://github.com/minhphanhvu/SpotifyConnectedApp#readme"
+  "homepage": "https://github.com/minhphanhvu/SpotifyConnectedApp#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "randomstring": "^1.2.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
 }
